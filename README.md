@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- My name is Dan and I'm aiming to transition into a tech career path
+- My name is Dan and I'm a business intelligence developer
 
-- I'm interested in: Gaming, data and devloper roles
-
-- I'm currently learning computer science fundamentals and beginning my coding journey in HTML/CSS/Javascript.
+- I'm interested in: Gaming, data and coding
